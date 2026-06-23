@@ -1,0 +1,6 @@
+#
+#  What is a GenAI framework?
+#  https://medium.com/@gorthib/what-is-genai-framework-46980343109c
+#
+
+
