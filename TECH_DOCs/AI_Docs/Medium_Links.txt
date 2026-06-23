@@ -2,5 +2,7 @@
 #  What is a GenAI framework?
 #  https://medium.com/@gorthib/what-is-genai-framework-46980343109c
 #
-
+#  RAG
+#  https://medium.com/@gorthib/rag-552c46a02df5
+#
 
